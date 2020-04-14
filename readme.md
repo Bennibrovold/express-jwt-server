@@ -1,8 +1,10 @@
 # express-jwt web server example
 
-Express-jwt-server example.
+Server example implants with mongoDB.
 
 ## Usage
+
+You need to configure settings.json file for your enviroment.
 
 ```bash
 npm install
